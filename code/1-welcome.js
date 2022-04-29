@@ -13,3 +13,8 @@ function welcome() {
   alert('Great, you said ' + answer + '!')
   alert("Let's learn some code today.")
 }
+
+function make() {
+  // copy and paste your code here when you get to the Make step
+  
+}
