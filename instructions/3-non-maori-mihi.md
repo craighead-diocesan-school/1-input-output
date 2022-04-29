@@ -8,22 +8,60 @@ If you start with a line like 'Ko Aoraki te maunga', by naming a Māori mountain
 
 Write a program to help the user create a mihi with the following structure:
 
-> Tēnā koutou,
+`Tēnā koutou,`
 
-> Kei te mihi au ki a [mountain],
+`Kei te mihi au ki a [mountain],`
 
-> Kei te mihi au ki a [river/ocean/lake/bay-harbour],
+`Kei te mihi au ki a [river/ocean/lake/bay-harbour],`
 
-> Ko Te Tiriti o Waitangi te waka,
+`Ko Te Tiriti o Waitangi te waka,`
 
-> Ko Aotearoa te iwi,
+`Ko Aotearoa te iwi,`
 
-> Nō [home town] au,
+`Nō [home town] au,`
 
-> Ko [name] tōku ingoa,
+`Ko [name] tōku ingoa,`
 
-> Tēnā koutou,
+`Tēnā koutou,`
 
-> Tēnā koutou,
+`Tēnā koutou,`
 
-> Tēnā koutou, katoa.
+`Tēnā koutou, katoa.`
+
+## Example
+
+`Māori Mihi`
+
+`This program will help you build a basic mihi.`
+
+`First, you'll be asked a series of questions, then your mihi will be ready.`
+
+`What is your name?` Jane
+
+`What is your home town?` Timaru
+
+`What river, ocean, lake or bay-harbour do you associate with?` Te Maru
+
+`What mountain do you associate with?` Aoraki
+
+`Your mihi:`
+
+`Tēnā koutou katoa,`
+
+`Ko Aoraki tōku maunga,`
+
+`Ko Te Maru tōku awa/moana/roto/whanga,`
+
+`Ko Te Tiriti o Waitangi te waka,`
+
+`Ko Aotearoa te iwi,`
+
+`Nō Timaru au,`
+
+`Ko Jane tōku ingoa,`
+
+`Tēnā koutou,`
+
+`Tēnā koutou,`
+
+`Tēnā koutou, katoa.`

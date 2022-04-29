@@ -12,14 +12,14 @@ You can use this story template if you wish:
 
 ## Example
 
-> Give me an exclamation: wow
+`Give me an exclamation:` wow
 
-> Give me an adverb: loudly
+`Give me an adverb:` loudly
 
-> Give me a noun: car
+`Give me a noun:` car
 
-> Give me an adjective: lovely
+`Give me an adjective:` lovely
 
-> Your story:
+`Your story:`
 
-> wow! he said loudly as he jumped into his convertible car and drove off with his lovely wife."
+`wow! he said loudly as he jumped into his convertible car and drove off with his lovely wife.`

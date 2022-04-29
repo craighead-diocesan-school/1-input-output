@@ -12,18 +12,58 @@ Write a program to help the user create a mihi with the following structure:
 
 > Ko [river/ocean/lake/bay-harbour] tōku awa/moana/roto/whanga,
 
-> Ko [vessel] tōku waka,
-
-> Ko [people] tōku iwi,
-
 > Nō [home town] au,
 
 > Ko [name] tōku ingoa,
-
-
 
 > Tēnā koutou,
 
 > Tēnā koutou,
 
 > Tēnā koutou, katoa.
+
+## Example
+
+`Māori Mihi`
+
+`This program will help you build a basic mihi.`
+
+`First, you'll be asked a series of questions, then your mihi will be ready.`
+
+`What is your name?` Jane
+
+`What is your home town?` Timaru
+
+`What is your iwi?` Ngāi Tahu
+
+`What is your river, ocean, lake or bay-harbour?` Te Maru
+
+`What is your mountain?` Aoraki
+
+`Your mihi:`
+
+`Tēnā koutou katoa,`
+
+`Ko Aoraki tōku maunga,`
+
+`Ko Te Maru tōku awa/moana/roto/whanga,`
+
+`Ko Ngāi Tahu tōku iwi,`
+
+`Nō Timaru au,`
+
+`Ko Jane tōku ingoa,`
+
+`Tēnā koutou,`
+
+`Tēnā koutou,`
+
+`Tēnā koutou, katoa.`
+
+## Extension
+
+Add two more pieces of information after the awa/moana/roto/whanga.
+
+> Ko [vessel] tōku waka,
+
+> Ko [people] tōku iwi,
