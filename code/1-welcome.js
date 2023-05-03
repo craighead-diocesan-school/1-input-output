@@ -14,7 +14,6 @@ function welcome() {
   alert("Let's learn some code today.")
 }
 
-function make() {
-  // copy and paste your code here when you get to the Make step
-  
+function questionnaire() {
+  // write the code for your questionnaire here
 }
